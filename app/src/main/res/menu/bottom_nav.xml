@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/remind" android:title="To-Do" android:icon="@drawable/reminder" />
+    <item android:id="@+id/alarm" android:title="Alarm" android:icon="@drawable/alarm" />
+</menu>

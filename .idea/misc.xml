@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/varun/AndroidStudioProjects/AlarmandReminder/app/src/main/res/drawable/alarm.xml" value="0.251" />
+        <entry key="..\:/Users/varun/AndroidStudioProjects/AlarmandReminder/app/src/main/res/drawable/home.xml" value="0.251" />
+        <entry key="..\:/Users/varun/AndroidStudioProjects/AlarmandReminder/app/src/main/res/drawable/ic_baseline_add_circle_24.xml" value="0.251" />
+        <entry key="..\:/Users/varun/AndroidStudioProjects/AlarmandReminder/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1175" />
+        <entry key="..\:/Users/varun/AndroidStudioProjects/AlarmandReminder/app/src/main/res/drawable/reminder.xml" value="0.251" />
+        <entry key="..\:/Users/varun/AndroidStudioProjects/AlarmandReminder/app/src/main/res/layout/activity_add_new.xml" value="0.39295392953929537" />
+        <entry key="..\:/Users/varun/AndroidStudioProjects/AlarmandReminder/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/varun/AndroidStudioProjects/AlarmandReminder/app/src/main/res/layout/fragment_alarm.xml" value="0.33" />
+        <entry key="..\:/Users/varun/AndroidStudioProjects/AlarmandReminder/app/src/main/res/layout/fragment_reminder.xml" value="0.3473731884057971" />
+        <entry key="..\:/Users/varun/AndroidStudioProjects/AlarmandReminder/app/src/main/res/layout/new_alrm.xml" value="0.25" />
+        <entry key="..\:/Users/varun/AndroidStudioProjects/AlarmandReminder/app/src/main/res/layout/new_instance.xml" value="0.33" />
+        <entry key="..\:/Users/varun/AndroidStudioProjects/AlarmandReminder/app/src/main/res/layout/new_remind.xml" value="0.2935897435897436" />
+        <entry key="..\:/Users/varun/AndroidStudioProjects/AlarmandReminder/app/src/main/res/menu/bottom_nav.xml" value="0.3578125" />
+        <entry key="..\:/Users/varun/AndroidStudioProjects/AlarmandReminder/app/src/main/res/menu/new_instance.xml" value="0.3578125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
